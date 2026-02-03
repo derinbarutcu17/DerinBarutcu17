@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Derin 👋
 
-<!--
-**derinbarutcu17/derinbarutcu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Designer and Front-end Developer based in Istanbul and Berlin. I focus on bridging the gap between traditional design principles and agentic development workflows. Currently, I am completing my Master's thesis in Berlin.
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦞 [claw-job-sniper](https://github.com/derinbarutcu17/claw-job-sniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
+- 🌌 [vibe-library](https://github.com/derinbarutcu17/vibe-library) - A high-fidelity catalog for archiving AI coding patterns and prompt engineering techniques.
+- 🎮 [hangman-app](https://github.com/derinbarutcu17/hangman-app) - A modern implementation of the classic Hangman game.
+- 🚀 [Mars-Shot](https://github.com/derinbarutcu17/Mars-Shot) - A rocket launch game developed as a technical demonstration.
+- 🌊 [signstream](https://github.com/derinbarutcu17/signstream) - A development environment built with React, TypeScript, and Vite.
+
+## Connect
+
+- [GitHub](https://github.com/derinbarutcu17)
+- [Twitter / X](https://x.com/derinbarutcu) (I'll check if this exists or just leave GitHub)
