@@ -13,4 +13,4 @@ I'm an Visual Communcation Designer and Front-end Vibe Developer based in Berlin
 ## Connect
 
 - [GitHub](https://github.com/derinbarutcu17)
-- [Twitter / X](https://x.com/derinbarutcu)
+- [X](https://x.com/derinbarutcu_)
