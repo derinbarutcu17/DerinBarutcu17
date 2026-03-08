@@ -3,9 +3,9 @@
 I design brands, products, and prototypes.
 My work sits between visual identity, interface design, and front-end execution.
 
-![Claude](https://img.shields.io/badge/Claude-111111?style=flat-square&logo=anthropic&logoColor=white)
-![Google%20Gemini](https://img.shields.io/badge/Google%20Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 
 ## Current Projects
 
