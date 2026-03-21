@@ -11,11 +11,12 @@ My work sits between visual identity, interface design, and front-end execution.
 
 - 🌊 [Signstream](https://github.com/derinbarutcu17/signstream) - Sign language learning environment built with React, TypeScript, and Vite.
 - 🗺️ [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) - Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
+- ⚜️ [Design Memory](https://github.com/derinbarutcu17/Design-Memory) - A local-first design-to-code audit tool that compares Figma against GitHub pull requests and generates an agent-ready Fix Brief.
 - 🌌 [Vibe Library](https://github.com/derinbarutcu17/vibe-library) - A catalog of AI prompt engineering prompts, catering to users from beginners to experts.
 
 ## More Projects
 
-- 🦞 [Claw-job-sniper](https://github.com/derinbarutcu17/claw-job-sniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
+- 🦞 [Job-Sniper](https://github.com/derinbarutcu17/Job-Sniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
 - 🎮 [Hangman-app](https://github.com/derinbarutcu17/hangman-app) - A modern implementation of the classic "paper and pen" Hangman game. Works offline and designed to play side by side.
 - 🚀 [Mars-Shot](https://github.com/derinbarutcu17/Mars-Shot) - A rocket launch game developed as my first ever project.
 
