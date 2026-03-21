@@ -1,24 +1,18 @@
 # Hi, I'm Derin 👋
 
-I design brands, products, and prototypes.
-My work sits between visual identity, interface design, and front-end execution.
+I build products, prototypes, and design systems.
 
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+Current flagship: [Design Memory](https://github.com/derinbarutcu17/Design-Memory) — a local-first Figma-to-PR drift detector with an agent-ready Fix Brief.
 
-## Selected Work
+## Featured Work
 
-- 🌊 [Signstream](https://github.com/derinbarutcu17/signstream) - Sign language learning environment built with React, TypeScript, and Vite.
-- 🗺️ [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) - Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
-- 🌌 [Vibe Library](https://github.com/derinbarutcu17/vibe-library) - A catalog of AI prompt engineering prompts, catering to users from beginners to experts.
-
-## More Projects
-
-- 🦞 [Claw-job-sniper](https://github.com/derinbarutcu17/claw-job-sniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
-- 🎮 [Hangman-app](https://github.com/derinbarutcu17/hangman-app) - A modern implementation of the classic "paper and pen" Hangman game. Works offline and designed to play side by side.
-- 🚀 [Mars-Shot](https://github.com/derinbarutcu17/Mars-Shot) - A rocket launch game developed as my first ever project.
-
+- 🧠 [Design Memory](https://github.com/derinbarutcu17/Design-Memory) — compare Figma against GitHub pull requests, detect design drift, and generate a Fix Brief.
+- 🌊 [Signstream](https://github.com/derinbarutcu17/Signstream) — sign language learning environment built with React, TypeScript, and Vite.
+- 🗺️ [Venture Atlas](https://github.com/derinbarutcu17/Venture-Atlas) — interactive treemap of the Berlin startup ecosystem.
+- 🌌 [Vibe Library](https://github.com/derinbarutcu17/Vibe-Library) — a catalog of AI prompts and prompt patterns.
+- 🦞 [Job Sniper](https://github.com/derinbarutcu17/Job-Sniper) — local-first job discovery and outreach workflow.
+- 🎮 [Hangman App](https://github.com/derinbarutcu17/Hangman-App) — a modern offline Hangman game.
+- 🚀 [Mars Shot](https://github.com/derinbarutcu17/Mars-Shot) — a rocket launch game, my first project.
 
 ## Connect
 
