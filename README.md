@@ -1,7 +1,6 @@
 # Hi, I'm Derin 👋
 
-I design brands, products, and prototypes.
-My work sits between visual identity, interface design, and front-end execution.
+I design and build products.
 
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white)
