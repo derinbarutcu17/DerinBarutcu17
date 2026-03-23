@@ -11,7 +11,7 @@ My work sits between visual identity, interface design, and front-end execution.
 
 - 🌊 [Signstream](https://github.com/derinbarutcu17/signstream) - Sign language learning environment built with React, TypeScript, and Vite.
 - 🗺️ [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) - Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
-- ⚜️ [Design Memory](https://github.com/derinbarutcu17/Design-Memory) - A local-first design-to-code audit tool that compares Figma against GitHub pull requests and generates an agent-ready Fix Brief.
+- ⚜️ [Design Memory](https://github.com/derinbarutcu17/Design-Memory) - Design Memory uses deterministic checks to block new design policy violations and reference mismatches in React/Tailwind PRs.
 - 🌌 [Vibe Library](https://github.com/derinbarutcu17/vibe-library) - A catalog of AI prompt engineering prompts, catering to users from beginners to experts.
 
 ## More Projects
