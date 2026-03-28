@@ -15,7 +15,7 @@ I design and build products.
 
 ## More Projects
 
-- 🦞 [Job-Sniper](https://github.com/derinbarutcu17/Job-Sniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
+- 👩🏻‍💻 [Job-Sniper](https://github.com/derinbarutcu17/Job-Sniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
 - 🎮 [Hangman-app](https://github.com/derinbarutcu17/hangman-app) - A modern implementation of the classic "paper and pen" Hangman game. Works offline and designed to play side by side.
 - 🚀 [Mars-Shot](https://github.com/derinbarutcu17/Mars-Shot) - A rocket launch game developed as my first ever project.
 
