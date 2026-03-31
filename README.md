@@ -12,6 +12,7 @@ I design and build products.
 - 🗺️ [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) - Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
 - ⚜️ [Design Memory](https://github.com/derinbarutcu17/Design-Memory) - Design Memory uses deterministic checks to block new design policy violations and reference mismatches in React/Tailwind PRs.
 - 🌌 [Vibe Library](https://github.com/derinbarutcu17/vibe-library) - A catalog of AI prompt engineering prompts, catering to users from beginners to experts.
+- 🧭 [Entule](https://github.com/derinbarutcu17/Entule) - A lightweight macOS menu bar app that saves your current work resources and reopens them later.
 
 ## More Projects
 
