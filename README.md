@@ -8,18 +8,19 @@ I design and build products.
 
 ## Selected Work
 
-- 🌊 [Signstream](https://github.com/derinbarutcu17/signstream) - Sign language learning environment built with React, TypeScript, and Vite.
-- 🗺️ [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) - Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
+- 🧩 [ContextSidecar](https://github.com/derinbarutcu17/ContextSidecar) - Local-first agent context sidecar for CLI, HTTP, and MCP workflows.
+- 🎛️ [SynthKit](https://github.com/derinbarutcu17/SynthKit) - Audio synthesis toolkit and playground for experimentation.
 - ⚜️ [Design Memory](https://github.com/derinbarutcu17/Design-Memory) - Design Memory uses deterministic checks to block new design policy violations and reference mismatches in React/Tailwind PRs.
-- 🌌 [Vibe Library](https://github.com/derinbarutcu17/vibe-library) - A catalog of AI prompt engineering prompts, catering to users from beginners to experts.
 - 🧭 [Entule](https://github.com/derinbarutcu17/Entule) - A lightweight macOS menu bar app that saves your current work resources and reopens them later.
+- 🗺️ [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) - Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
+- 👩🏻‍💻 [JobSniper](https://github.com/derinbarutcu17/JobSniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
+- 🌌 [Vibe Library](https://github.com/derinbarutcu17/vibe-library) - A catalog of AI prompt engineering prompts, catering to users from beginners to experts.
 
 ## More Projects
 
-- 👩🏻‍💻 [Job-Sniper](https://github.com/derinbarutcu17/Job-Sniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
-- 🎮 [Hangman-app](https://github.com/derinbarutcu17/hangman-app) - A modern implementation of the classic "paper and pen" Hangman game. Works offline and designed to play side by side.
-- 🚀 [Mars-Shot](https://github.com/derinbarutcu17/Mars-Shot) - A rocket launch game developed as my first ever project.
-
+- 🌊 [Signstream](https://github.com/derinbarutcu17/signstream) - Sign language learning environment built with React, TypeScript, and Vite.
+- 🎮 [HangmanApp](https://github.com/derinbarutcu17/hangman-app) - A modern implementation of the classic "paper and pen" Hangman game. Works offline and designed to play side by side.
+- 🚀 [MarsShot](https://github.com/derinbarutcu17/MarsShot) - A rocket launch game developed as my first ever project.
 
 ## Connect
 
