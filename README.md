@@ -11,7 +11,7 @@ I design and build products.
 - 🧩 [ContextSidecar](https://github.com/derinbarutcu17/ContextSidecar) - Local-first agent context sidecar for CLI, HTTP, and MCP workflows.
 - 🎛️ [SynthKit](https://github.com/derinbarutcu17/SynthKit) - Headless local-first synthesis engine for structured briefs, decision memos, and deck outlines.
 - ⚜️ [Design Memory](https://github.com/derinbarutcu17/Design-Memory) - Design Memory uses deterministic checks to block new design policy violations and reference mismatches in React/Tailwind PRs.
-- 🧭 [Entule](https://github.com/derinbarutcu17/Entule) - A lightweight macOS menu bar app that saves your current work resources and reopens them later.
+- 🧭 [Entule](https://github.com/derinbarutcu17/Entule) - A macOS app that saves your current state of apps and resources to reopen them later.
 - 🗺️ [Berlin Venture Atlas](https://github.com/derinbarutcu17/venture-atlas) - Interactive treemap visualization of the Berlin startup ecosystem, featuring dynamic zoom and funding analytics.
 - 👩🏻‍💻 [JobSniper](https://github.com/derinbarutcu17/JobSniper) - CV-based job discovery tool designed for automated feed scanning and profile matching.
 - 🌌 [Vibe Library](https://github.com/derinbarutcu17/vibe-library) - A catalog of AI prompt engineering prompts, catering to users from beginners to experts.
